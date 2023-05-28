@@ -32,3 +32,4 @@ if __name__ == '__main__':
 
     # Print the product name
     company_name_creator(PRODUCT_NAME)
+
